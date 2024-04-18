@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect", "Kinect\Kinect.csproj", "{D9056508-0DE9-4CDA-9171-A3A9F8E88CF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Kinect360Debug|Any CPU = Kinect360Debug|Any CPU
+		Kinect360Release|Any CPU = Kinect360Release|Any CPU
+		KinectOneDebug|Any CPU = KinectOneDebug|Any CPU
+		KinectOneRelease|Any CPU = KinectOneRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9056508-0DE9-4CDA-9171-A3A9F8E88CF8}.Kinect360Debug|Any CPU.ActiveCfg = Kinect360Debug|Any CPU
+		{D9056508-0DE9-4CDA-9171-A3A9F8E88CF8}.Kinect360Debug|Any CPU.Build.0 = Kinect360Debug|Any CPU
+		{D9056508-0DE9-4CDA-9171-A3A9F8E88CF8}.Kinect360Release|Any CPU.ActiveCfg = Kinect360Release|Any CPU
+		{D9056508-0DE9-4CDA-9171-A3A9F8E88CF8}.Kinect360Release|Any CPU.Build.0 = Kinect360Release|Any CPU
+		{D9056508-0DE9-4CDA-9171-A3A9F8E88CF8}.KinectOneDebug|Any CPU.ActiveCfg = KinectOneDebug|Any CPU
+		{D9056508-0DE9-4CDA-9171-A3A9F8E88CF8}.KinectOneDebug|Any CPU.Build.0 = KinectOneDebug|Any CPU
+		{D9056508-0DE9-4CDA-9171-A3A9F8E88CF8}.KinectOneRelease|Any CPU.ActiveCfg = KinectOneRelease|Any CPU
+		{D9056508-0DE9-4CDA-9171-A3A9F8E88CF8}.KinectOneRelease|Any CPU.Build.0 = KinectOneRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BA1684-AEA6-481F-BCB1-87E673B5EDB8}
+	EndGlobalSection
+EndGlobal

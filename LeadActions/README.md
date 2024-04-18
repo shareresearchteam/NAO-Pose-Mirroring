@@ -1,0 +1,2 @@
+# Custom Behaviors Choreagraphe Project
+This is the Choreagraphe software project that contains all the custom behaviors used by the NAO. This project must be uploaded onto the NAO, and the resulting application ID must be copied to the `CustomBehaviorsID` key value in the [App.config](../Kinect/Kinect/App.config) file of the C# project.

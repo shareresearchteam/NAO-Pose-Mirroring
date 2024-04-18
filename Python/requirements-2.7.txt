@@ -1,0 +1,5 @@
+# Python 2.7 backwards compatibility
+six
+enum34
+futures
+pathlib

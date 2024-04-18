@@ -1,0 +1,6 @@
+{
+  "extraPaths": ["./stubs"],
+  "typeCheckingMode": "strict",
+  "useLibraryCodeForTypes": true,
+  "reportMissingModuleSource": false
+}

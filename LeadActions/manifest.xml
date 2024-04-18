@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package installOnlyAtStartup="false" uuid="leadactions-326f51" version="0.0.0">
+ <names>
+  <name lang="en_US">LeadActions</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="WavingArms">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="DiagonalArms">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Macarena">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="TArms">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="PushPull">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="KarateKid">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="StretchSky">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="HandJive">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="HeadBang">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="HeadShake">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="HeadNod">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Salute">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="SitDown">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="HandsOutFlip">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="GazeLeft">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="GazeSlightLeft">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="GazeSlightRight">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="GazeRight">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
