@@ -31,3 +31,6 @@ Resource information for getting setup with this repository. Includes links for 
 2. [Kinect One SDK](https://www.microsoft.com/en-US/download/details.aspx?id=44561)
 3. [Internet Archive Kinect One SDK (DOES NOT INCLUDE REQUIRED RUNTIME)](https://archive.org/details/kinect-software-developer-kit)
 4. [Internet Archive Kinect One Runtime/Drivers](https://archive.org/details/kinect-for-windows-v2-runtime-installers)
+
+## References
+1. Initial starter code for the kinematic conversions, which were then heavily modified to support mirroring and improve response time. [Instructable](https://www.instructables.com/Nao-Robot-Mimicking-Movements-Using-Kinect/) [Github](https://github.com/PinsonJonas/Project-2-sandro)

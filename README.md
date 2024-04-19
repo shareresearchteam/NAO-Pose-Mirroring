@@ -95,7 +95,3 @@ Resource information for getting setup with this repository. Includes links for 
 1. [NAO Software downloads page](https://www.aldebaran.com/en/support/nao-6/downloads-softwares)
 2. [Internet Archive link for all NAO v6 software](https://archive.org/details/softbank-nao-v-6-software)
 3. [NAO 2.8 Documentation](http://doc.aldebaran.com/2-8/index.html)
-
-## References
-1. [Starting point for the code](https://www.instructables.com/Nao-Robot-Mimicking-Movements-Using-Kinect/)
-2. [github for ref 1](https://github.com/PinsonJonas/Project-2-sandro)
